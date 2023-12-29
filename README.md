@@ -8,9 +8,11 @@
   </a>
 </h1>
 
-<h3 align="center">Pro-self-learner on a constant journey of exploration. Let's connect and embark on this exciting journey together! 🚀</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; font-size: 18px;">
+  As a proactive self-learner, I am consistently immersed in a dynamic journey of exploration and skill enhancement. I invite you to connect with me, and together, let's embark on this thrilling and intellectually stimulating journey of software development! 🚀
+</h3>
 
-<p align="left"> 
+<p align="left" style="font-family: 'Courier New', monospace; font-size: 14px;"> 
   <img src="https://komarev.com/ghpvc/?username=Hamaadama&label=Profile%20views&color=a019fa&style=flat" alt="Hamaadama" /> 
 </p>
 
@@ -19,4 +21,4 @@
 - 👯 Looking to collaborate on: Exciting projects and coding challenges
 - 💬 Ask me about: Anything related to software development, crypto, or AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hamaadama/)
-- ⚡ Fun fact: I am an ENTJ and a Leo at the same time :)
+- ⚡ Fun fact: I am an ENTJ and a Leo at the same time :)"
