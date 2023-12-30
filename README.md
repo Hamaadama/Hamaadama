@@ -6,5 +6,4 @@ I'm a passionate software developer and crypto/AI enthusiast, currently a studen
 - 🌱 Currently learning: Linux, C, and Java Programming Languages
 - 👯 Looking to collaborate on: Exciting projects and coding challenges
 - 💬 Ask me about Anything related to software development, crypto, or AI
-- 📫 How to reach me: https://www.linkedin.com/in/hamaadama/
 - ⚡ Fun fact: I am an ENTJ and a Leo at the same time :)
