@@ -7,9 +7,9 @@
 <body>
 
  <div align="center" style="font-family: 'Roboto', sans-serif; color: #007BFF;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&size=22&center=true&vCenter=true&lines=Hello+👋%2C;I'm+ADAM...;I'm+a+passionate+Software+Developer+with+a+huge+taste+for+Crypto+and+AI+Technologies." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&size=22&center=true&vCenter=true&lines=Hello+👋%2C;I'm+ADAM..." alt="Typing SVG">
 </div>
-  <h3 align="center">I'm a passionate software developer and crypto/AI enthusiast, a student at Holberton School working toward becoming a full-stack developer. Pro-self-learner on a constant journey of exploration. Let's connect and embark on this exciting journey together! 🚀</h3>
+  <h3 align="center">I am a passionate Software Developer with a huge taste for Crypto and AI Technologies. Pro-self-learner on a constant journey of exploration. working toward becoming a full-stack developer. Let's connect and embark on this exciting journey together! 🚀</h3>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Hamaadama&label=Profile%20views&color=0e75b6&style=flat" alt="Hamaadama" />
