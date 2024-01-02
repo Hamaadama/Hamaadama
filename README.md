@@ -8,7 +8,7 @@
 <body>
 
   <h1 align="center">Hi 👋, I'm ADAM</h1>
-  <h3 align="center">Aspiring Full-stack Developer from Cameroon</h3>
+  <h3 align="center">I'm a passionate software developer and crypto/AI enthusiast, a student at Holberton School working toward becoming a full-stack developer. Pro-self-learner on a constant journey of exploration. Let's connect and embark on this exciting journey together! 🚀</h3>
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Hamaadama&label=Profile%20views&color=0e75b6&style=flat" alt="Hamaadama" />
