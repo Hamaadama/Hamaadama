@@ -3,11 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ADAM - Software Developer</title>
 </head>
 <body>
 
-  <h1 align="center">Hi 👋, I'm ADAM</h1>
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+👋%2C;I'm+ADAM..." alt="Typing SVG">
+</div>
   <h3 align="center">I'm a passionate software developer and crypto/AI enthusiast, a student at Holberton School working toward becoming a full-stack developer. Pro-self-learner on a constant journey of exploration. Let's connect and embark on this exciting journey together! 🚀</h3>
 
   <p align="left">
