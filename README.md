@@ -7,7 +7,7 @@
 <body>
 
  <div align="center" style="font-family: 'Courier New', monospace;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+👋%2C;I'm+ADAM..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23008000&size=22&center=true&vCenter=true&lines=Hello+👋%2C;I'm+ADAM..." alt="Typing SVG">
 </div>
   <h3 align="center">I'm a passionate software developer and crypto/AI enthusiast, a student at Holberton School working toward becoming a full-stack developer. Pro-self-learner on a constant journey of exploration. Let's connect and embark on this exciting journey together! 🚀</h3>
 
@@ -30,7 +30,7 @@
   <ul>
     <li>💻 <strong>Software Engineer Student at Holberton School</strong></li>
     <li>📕 <strong>I’m currently learning</strong> Java, C, Linux</li>
-    <li>📫 <strong>How to reach me</strong>proselflearner@gmail.com</li>
+    <li>📫 <strong>How to reach me: </strong>proselflearner@gmail.com</li>
     <li>⚡ <strong>Fun fact</strong>I am an ENTJ and a Leo at the same time :) 😅</li>
   </ul>
 
