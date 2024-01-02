@@ -30,7 +30,7 @@
   <ul>
     <li>💻 <strong>Software Engineer Student at Holberton School</strong></li>
     <li>📕 <strong>I’m currently learning</strong> Java, C, Linux</li>
-    <li>📫 <strong>How to reach me: </strong>proselflearner@gmail.com</li>
+    <li>📫 <strong>How to reach me:</strong> <a href="mailto:proselflearner@gmail.com">proselflearner@gmail.com</a></li>
     <li>⚡ <strong>Fun fact</strong>I am an ENTJ and a Leo at the same time :) 😅</li>
   </ul>
 
